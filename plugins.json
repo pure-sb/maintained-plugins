@@ -3,12 +3,12 @@
     "projectUrl": "https://discord.gg/skillbox",
     "provider": "pure",
     "name": "Chin break handler",
-    "description": "Automatically takes breaks for you (?)",
+    "description": "Automatically takes breaks for you (?). SB Compatible.",
     "id": "chinbreakhandler-plugin",
     "releases": [
       {
-        "date": "2023-02-13",
-        "sha512sum": "932956EA05017D72B55236D2B972125CBDCC5D80D6518B6BAD3035451AC371D55E1954A3D488155400C121D8DC6DF4C7041D5C1B6611783E73BE4B6B7462A0E8",
+        "date": "2023-02-14",
+        "sha512sum": "A8671F8743CB9F67E979E6ABBE6069956C709DE5A81D4CF4C0A14469B87C776C0BC23C6D210523F7087DD04F13CC1B21FD3E587A60AC9CDC4D1BD386C801D5A3",
         "version": "2.2.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/chinbreakhandler-2.2.0.jar?raw=true",
         "requires": "^1.0.0"
