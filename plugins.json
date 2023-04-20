@@ -2,15 +2,143 @@
   {
     "projectUrl": "https://discord.gg/skillbox",
     "provider": "pure",
-    "name": "Chin break handler",
+    "name": "[SBX] Chin break handler",
     "description": "Automatically takes breaks for you (?). SB Compatible.",
-    "id": "chinbreakhandler-plugin",
+    "id": "sbxchinbreakhandler-plugin",
     "releases": [
       {
-        "date": "2023-02-14",
-        "sha512sum": "A8671F8743CB9F67E979E6ABBE6069956C709DE5A81D4CF4C0A14469B87C776C0BC23C6D210523F7087DD04F13CC1B21FD3E587A60AC9CDC4D1BD386C801D5A3",
+        "date": "2023-04-20",
+        "sha512sum": "63454F4DEF2F87250823BA5679AED9EEAFDFAD68D333DF6BC8844AE2AAB9944A418E4B2032A660FC64126D7DDE71937019AA030336417DC74249F6B8B01DA0E1",
         "version": "2.2.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/chinbreakhandler-2.2.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/skillbox",
+    "provider": "pure",
+    "name": "[SBX] CoX Helper",
+    "description": "All-in-one plugin for Chambers of Xeric. SB Compatible.",
+    "id": "sbxcoxhelper-plugin",
+    "releases": [
+      {
+        "date": "2023-04-20",
+        "sha512sum": "1D6282A3D53683820FEFD878CBE0814D972C658E5C25518F5DBF3FBCC484F613E10542102BD39F89C2E6B72998F2794A2E1F79A9C84373CE5A31F534C3DB7A16",
+        "version": "6.0.0",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/coxhelper-6.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/skillbox",
+    "provider": "pure",
+    "name": "[SBX] Dynamic Max Hit",
+    "description": "Dynamic Max Hit Calculations. SB Compatible.",
+    "id": "sbxdynamicmaxhit-plugin",
+    "releases": [
+      {
+        "date": "2023-04-20",
+        "sha512sum": "EBC1119C71FC339F6922F0ECBE9C08D1CA87B01704326E2F9EF2F6D622A04DBABCE52598F3B3CDB3219601562BD64617E5F92CED7AD925A9C817085812B58E29",
+        "version": "6.0.0",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/dynamicmaxhit-6.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/skillbox",
+    "provider": "pure",
+    "name": "[SBX] Effect Timers",
+    "description": "Effect timer overlay on players. SB Compatible.",
+    "id": "sbxeffecttimers-plugin",
+    "releases": [
+      {
+        "date": "2023-04-20",
+        "sha512sum": "D7A799AC6800F7B5DF4A2BD2CB49678FD1F8B6D2390B2614E8F42B632CF130F8496CAD68B99E4A924D13C2058589C5AC75777CAADDBB1DBE065B3B1F3D772998",
+        "version": "6.0.0",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/effecttimers-6.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/skillbox",
+    "provider": "pure",
+    "name": "[SBX] Multi Lines",
+    "description": "Show borders of multicombat and PvP safezones. SB Compatible.",
+    "id": "sbxmultilines-plugin",
+    "releases": [
+      {
+        "date": "2023-04-20",
+        "sha512sum": "5143C2185D60404259C37050E72921652D9A71801D6A1C50482436450D2E1BA7C433A9A31AC8ED2633A26650DB09E6FCEC47C794C31983B4AD3AC5ABAD515E60",
+        "version": "6.0.0",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/multiindicators-6.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/skillbox",
+    "provider": "pure",
+    "name": "[SBX] Nex Extended",
+    "description": "Helper for fighting Nex. SB Compatible.",
+    "id": "sbxnexextended-plugin",
+    "releases": [
+      {
+        "date": "2023-04-20",
+        "sha512sum": "C9EED03A9B07651B9100CAACC4C6AB652451B38A7DEBD87E6630E1B5C05C4C0FFD21703399228E78ACF71D96F980316BA0FCDF60831DB02A222F5B4EDCC91E55",
+        "version": "6.0.0",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/nex-6.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/skillbox",
+    "provider": "pure",
+    "name": "[SBX] NPC Status Timer",
+    "description": "Adds a timer on NPC's for their attacks and flinching. SB Compatible.",
+    "id": "sbxnpcstatustimer-plugin",
+    "releases": [
+      {
+        "date": "2023-04-20",
+        "sha512sum": "C2BF1A7CA08F90C6B8F4141DC35AD204D0836DA31473ADA3E283D02D61A33E3070476CFB1F13D715AEE41880A11D44CB08119671EDA50A141153FB533ECCA95C",
+        "version": "6.0.0",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/npcstatus-6.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/skillbox",
+    "provider": "pure",
+    "name": "[SBX] Socket Player Status",
+    "description": "Socket extension for displaying player status to members in your party. SB Compatible.",
+    "id": "sbxsocketplayerstatus-plugin",
+    "releases": [
+      {
+        "date": "2023-04-20",
+        "sha512sum": "9CF62ED40A8EC99825F4F9D7128C7E0406FAAEB549F40F18FFF96CF41D4BE876FF56C6945C2EC2CE90A1918C423561D316172F11938317F267061137BA00097B",
+        "version": "6.0.0",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/socket-6.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/skillbox",
+    "provider": "pure",
+    "name": "[SBX] Socket",
+    "description": "Socket connection for broadcasting messages across clients. SB Compatible.",
+    "id": "sbxsocket-plugin",
+    "releases": [
+      {
+        "date": "2023-04-20",
+        "sha512sum": "666E48B9C62901E620D208200BAAB712B59FAEC30F1FA1C6D0719CBA278486CAF0609FE43466594B5749EDCDE8445C49AA955043D6CC98460BA85705A3FDF601",
+        "version": "6.0.0",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/socketplayerstatus-6.0.0.jar?raw=true",
         "requires": "^1.0.0"
       }
     ]
