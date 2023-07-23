@@ -7,7 +7,7 @@
     "id": "sbxchinbreakhandler-plugin",
     "releases": [
       {
-        "date": "2023-04-20",
+        "date": "2023-07-23",
         "sha512sum": "4A676EDFE23CACCA09426EFE0DB83E1BAF97AA1C3F83C143F0463FFEA93AD294D834943DF8585BF723571F2404773064E464823A9A7D782CDC9FC5E409E7C128",
         "version": "2.2.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/chinbreakhandler-2.2.0.jar?raw=true",
@@ -23,7 +23,7 @@
     "id": "sbxcoxhelper-plugin",
     "releases": [
       {
-        "date": "2023-04-20",
+        "date": "2023-07-23",
         "sha512sum": "B44DF428FA9578EB133362C56547CE0695C82FF2DC09F8AB7D04ED952884E266FBC32E1EE5E29A06D38B553D997EFEACF866D343465697A7D7E044684110DA1B",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/coxhelper-6.0.0.jar?raw=true",
@@ -39,7 +39,7 @@
     "id": "sbxdynamicmaxhit-plugin",
     "releases": [
       {
-        "date": "2023-04-20",
+        "date": "2023-07-23",
         "sha512sum": "E86EBC9835112F26462C37D5F62EC8AC5DDFE8E1D0749339F29E145D26482B92E9451289607E66850A15273A09A136C82E0F7D8BD4D12BAAF069C471ED10F7F7",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/dynamicmaxhit-6.0.0.jar?raw=true",
@@ -55,10 +55,26 @@
     "id": "sbxeffecttimers-plugin",
     "releases": [
       {
-        "date": "2023-04-20",
+        "date": "2023-07-23",
         "sha512sum": "6D27CD378C5A3ACC124A1A681B53593CBCA5F01A1887A3861C371D3146DA2E370CDE1E10BBA70E7703B3D625BEF2A39CD1589C013E950FC58B6A8C8EBB0188E0",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/effecttimers-6.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/skillbox",
+    "provider": "ImNo",
+    "name": "[SBX] Sepulcre Deluxe",
+    "description": "This is a HallowedHelper plugin by ImNo#0890. SB Compatible.",
+    "id": "sbxsepulcredeluxe-plugin",
+    "releases": [
+      {
+        "date": "2023-07-23",
+        "sha512sum": "B1BC9CBAED7AC02FDB03CED9A78181814F2ECD349D784B76F6D0C4DFB389521D64A99879B3334529C745A725AE60A7212D61C8C9D9D0345F7C0D08172516ABDC",
+        "version": "0.2.1",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/hallowedhelper-0.2.1.jar?raw=true",
         "requires": "^1.0.0"
       }
     ]
@@ -71,7 +87,7 @@
     "id": "sbxmultilines-plugin",
     "releases": [
       {
-        "date": "2023-04-20",
+        "date": "2023-07-23",
         "sha512sum": "87B9D4428DA51C3BF2CFC46A904545F544A9BA70C1D8158D8142BFB45546E7F262738695FE9343AA9AF46176A255500EBD5D480B515B4112400304CB750CF59C",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/multiindicators-6.0.0.jar?raw=true",
@@ -87,7 +103,7 @@
     "id": "sbxnexextended-plugin",
     "releases": [
       {
-        "date": "2023-04-20",
+        "date": "2023-07-23",
         "sha512sum": "11F0DC35F57AEBD01B5FD858C9AE81B0CD076AA664C6B0D2725FAD0F1F081D1D7343B5A6CE21EDAE0D9BD447BF5E99A36F4D1B810FDFE9E7E410CF5B1050C2B1",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/nex-6.0.0.jar?raw=true",
@@ -103,7 +119,7 @@
     "id": "sbxnpcstatustimer-plugin",
     "releases": [
       {
-        "date": "2023-04-20",
+        "date": "2023-07-23",
         "sha512sum": "BAD2D2D6905AA4C91BB20FBD417A3D50C369DF67CD5013FD0372C4FDBA389E8D62A936331485DB586D8E98CA04F73C6BF13CF5C56C908C4ED8AB005D13B075BF",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/npcstatus-6.0.0.jar?raw=true",
