@@ -7,8 +7,8 @@
     "id": "sbxbetterequipmentinspector-plugin",
     "releases": [
       {
-        "date": "2024-02-10",
-        "sha512sum": "AB67BBFDB473B3C088C4F0B588D9026ED6E20005F2709DB21254E49B0A1B7BD63278C9F8DA6943296F7BE929DA73C1AB32213790AB789E9FF34CABA544940EF1",
+        "date": "2024-02-11",
+        "sha512sum": "1B47B3E6FCB2ED98BA9B1D2D71BA6A5C4531E788B7F84AC2ED706F4E84D861FA53EB9C9067ADBEB12F4FFCB1B7E2D2FCA51EEF13304A29D3A15F8EF1881346F6",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/betterequipmentinspector-6.0.0.jar?raw=true",
         "requires": "^1.0.0"
@@ -23,8 +23,8 @@
     "id": "sbxchinbreakhandler-plugin",
     "releases": [
       {
-        "date": "2024-02-10",
-        "sha512sum": "4615AA588CA9753D5D134A19E15846B4298E3CE453A4154470BCF845186C17DD97697AD636DFD3E7F281552EC356B2B69D9FD32EDB9DED2092E80CEDF2886388",
+        "date": "2024-02-11",
+        "sha512sum": "EB10776845321A8A94927100EFADB3F817DF3C0725D184722C5909702D674791A1A79AFD00ABE5E59F0EECAA65A8DD664B33D9DE9ADDE1C000371DEF23BB75B2",
         "version": "2.2.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/chinbreakhandler-2.2.0.jar?raw=true",
         "requires": "^1.0.0"
@@ -39,7 +39,7 @@
     "id": "sbxcoxhelper-plugin",
     "releases": [
       {
-        "date": "2024-02-10",
+        "date": "2024-02-11",
         "sha512sum": "B44DF428FA9578EB133362C56547CE0695C82FF2DC09F8AB7D04ED952884E266FBC32E1EE5E29A06D38B553D997EFEACF866D343465697A7D7E044684110DA1B",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/coxhelper-6.0.0.jar?raw=true",
@@ -55,7 +55,7 @@
     "id": "sbxdynamicmaxhit-plugin",
     "releases": [
       {
-        "date": "2024-02-10",
+        "date": "2024-02-11",
         "sha512sum": "E86EBC9835112F26462C37D5F62EC8AC5DDFE8E1D0749339F29E145D26482B92E9451289607E66850A15273A09A136C82E0F7D8BD4D12BAAF069C471ED10F7F7",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/dynamicmaxhit-6.0.0.jar?raw=true",
@@ -71,7 +71,7 @@
     "id": "sbxeffecttimers-plugin",
     "releases": [
       {
-        "date": "2024-02-10",
+        "date": "2024-02-11",
         "sha512sum": "6D27CD378C5A3ACC124A1A681B53593CBCA5F01A1887A3861C371D3146DA2E370CDE1E10BBA70E7703B3D625BEF2A39CD1589C013E950FC58B6A8C8EBB0188E0",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/effecttimers-6.0.0.jar?raw=true",
@@ -87,7 +87,7 @@
     "id": "sbxsepulcredeluxe-plugin",
     "releases": [
       {
-        "date": "2024-02-10",
+        "date": "2024-02-11",
         "sha512sum": "4591F0953CD441AEE93F2CEB575788B42E8D574C7A3729359707AE9A1F6A03C6A2D1EE02877E38BAFF8B630757540F5B390B466CBE24091072DEB50A4904B33E",
         "version": "0.2.1",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/hallowedhelper-0.2.1.jar?raw=true",
@@ -103,7 +103,7 @@
     "id": "sbxmultilines-plugin",
     "releases": [
       {
-        "date": "2024-02-10",
+        "date": "2024-02-11",
         "sha512sum": "87B9D4428DA51C3BF2CFC46A904545F544A9BA70C1D8158D8142BFB45546E7F262738695FE9343AA9AF46176A255500EBD5D480B515B4112400304CB750CF59C",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/multiindicators-6.0.0.jar?raw=true",
@@ -119,7 +119,7 @@
     "id": "sbxnexextended-plugin",
     "releases": [
       {
-        "date": "2024-02-10",
+        "date": "2024-02-11",
         "sha512sum": "11F0DC35F57AEBD01B5FD858C9AE81B0CD076AA664C6B0D2725FAD0F1F081D1D7343B5A6CE21EDAE0D9BD447BF5E99A36F4D1B810FDFE9E7E410CF5B1050C2B1",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/nex-6.0.0.jar?raw=true",
@@ -135,7 +135,7 @@
     "id": "sbxnpcstatustimer-plugin",
     "releases": [
       {
-        "date": "2024-02-10",
+        "date": "2024-02-11",
         "sha512sum": "BAD2D2D6905AA4C91BB20FBD417A3D50C369DF67CD5013FD0372C4FDBA389E8D62A936331485DB586D8E98CA04F73C6BF13CF5C56C908C4ED8AB005D13B075BF",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/npcstatus-6.0.0.jar?raw=true",
