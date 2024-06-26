@@ -3,14 +3,30 @@
     "projectUrl": "https://discord.gg/skillbox",
     "provider": "pure",
     "name": "[SBX] Better Equipment Inspector",
-    "description": "Inspect other players their gear",
+    "description": "Inspect other players their gear. SB Compatible.",
     "id": "sbxbetterequipmentinspector-plugin",
     "releases": [
       {
-        "date": "2024-02-11",
-        "sha512sum": "1B47B3E6FCB2ED98BA9B1D2D71BA6A5C4531E788B7F84AC2ED706F4E84D861FA53EB9C9067ADBEB12F4FFCB1B7E2D2FCA51EEF13304A29D3A15F8EF1881346F6",
+        "date": "2024-06-26",
+        "sha512sum": "AC4D4351B4C60DD1A623850EE32F4FDD685DF62C41677AC56B2AFFAC04886C328D32D742044D058209B3D1651450489BFA058F324E73F7F6AEF19EAD37F5F9A4",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/betterequipmentinspector-6.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/skillbox",
+    "provider": "pure",
+    "name": "[SBX] Better Profiles",
+    "description": "Allow for a allows you to easily switch between multiple OSRS Accounts. SB Compatible.",
+    "id": "sbxbetterprofiles-plugin",
+    "releases": [
+      {
+        "date": "2024-06-26",
+        "sha512sum": "1D31A552BAFA6A39F12EA7D48E5CF3F889837152A1C60449EE392D7F29FB9EF35F6C0ABDA12CCA16D2171080A254ABA410A96AD29BEC19673EB6920AC2F61E29",
+        "version": "4.0.1",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/betterprofiles-4.0.1.jar?raw=true",
         "requires": "^1.0.0"
       }
     ]
@@ -23,8 +39,8 @@
     "id": "sbxchinbreakhandler-plugin",
     "releases": [
       {
-        "date": "2024-02-11",
-        "sha512sum": "EB10776845321A8A94927100EFADB3F817DF3C0725D184722C5909702D674791A1A79AFD00ABE5E59F0EECAA65A8DD664B33D9DE9ADDE1C000371DEF23BB75B2",
+        "date": "2024-06-26",
+        "sha512sum": "40A422A55CC553A72126FD8CE92A10979FEDD2F719BF87F53160B5FE209773E9CAF39F54DB1F9951EAEF1EDBDD3A511CC1B606DA0A1766E6EB249F9E26A8D0F3",
         "version": "2.2.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/chinbreakhandler-2.2.0.jar?raw=true",
         "requires": "^1.0.0"
@@ -39,7 +55,7 @@
     "id": "sbxcoxhelper-plugin",
     "releases": [
       {
-        "date": "2024-02-11",
+        "date": "2024-06-26",
         "sha512sum": "B44DF428FA9578EB133362C56547CE0695C82FF2DC09F8AB7D04ED952884E266FBC32E1EE5E29A06D38B553D997EFEACF866D343465697A7D7E044684110DA1B",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/coxhelper-6.0.0.jar?raw=true",
@@ -55,7 +71,7 @@
     "id": "sbxdynamicmaxhit-plugin",
     "releases": [
       {
-        "date": "2024-02-11",
+        "date": "2024-06-26",
         "sha512sum": "E86EBC9835112F26462C37D5F62EC8AC5DDFE8E1D0749339F29E145D26482B92E9451289607E66850A15273A09A136C82E0F7D8BD4D12BAAF069C471ED10F7F7",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/dynamicmaxhit-6.0.0.jar?raw=true",
@@ -71,7 +87,7 @@
     "id": "sbxeffecttimers-plugin",
     "releases": [
       {
-        "date": "2024-02-11",
+        "date": "2024-06-26",
         "sha512sum": "6D27CD378C5A3ACC124A1A681B53593CBCA5F01A1887A3861C371D3146DA2E370CDE1E10BBA70E7703B3D625BEF2A39CD1589C013E950FC58B6A8C8EBB0188E0",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/effecttimers-6.0.0.jar?raw=true",
@@ -87,7 +103,7 @@
     "id": "sbxsepulcredeluxe-plugin",
     "releases": [
       {
-        "date": "2024-02-11",
+        "date": "2024-06-26",
         "sha512sum": "4591F0953CD441AEE93F2CEB575788B42E8D574C7A3729359707AE9A1F6A03C6A2D1EE02877E38BAFF8B630757540F5B390B466CBE24091072DEB50A4904B33E",
         "version": "0.2.1",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/hallowedhelper-0.2.1.jar?raw=true",
@@ -103,7 +119,7 @@
     "id": "sbxmultilines-plugin",
     "releases": [
       {
-        "date": "2024-02-11",
+        "date": "2024-06-26",
         "sha512sum": "87B9D4428DA51C3BF2CFC46A904545F544A9BA70C1D8158D8142BFB45546E7F262738695FE9343AA9AF46176A255500EBD5D480B515B4112400304CB750CF59C",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/multiindicators-6.0.0.jar?raw=true",
@@ -119,7 +135,7 @@
     "id": "sbxnexextended-plugin",
     "releases": [
       {
-        "date": "2024-02-11",
+        "date": "2024-06-26",
         "sha512sum": "11F0DC35F57AEBD01B5FD858C9AE81B0CD076AA664C6B0D2725FAD0F1F081D1D7343B5A6CE21EDAE0D9BD447BF5E99A36F4D1B810FDFE9E7E410CF5B1050C2B1",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/nex-6.0.0.jar?raw=true",
@@ -135,7 +151,7 @@
     "id": "sbxnpcstatustimer-plugin",
     "releases": [
       {
-        "date": "2024-02-11",
+        "date": "2024-06-26",
         "sha512sum": "BAD2D2D6905AA4C91BB20FBD417A3D50C369DF67CD5013FD0372C4FDBA389E8D62A936331485DB586D8E98CA04F73C6BF13CF5C56C908C4ED8AB005D13B075BF",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/npcstatus-6.0.0.jar?raw=true",
