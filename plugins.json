@@ -108,6 +108,13 @@
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/effecttimers-6.0.0.jar?raw=true",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2024-11-03",
+        "sha512sum": "4A408E304FEA4D5A44498E70B97A082D1A038CD3FCDBE848BAB9699FBD42941EC871D03A5298F4D6B79B059A69D2078F134471198DA500155D8FD98B7256F5B4",
+        "version": "6.0.1",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/effecttimers-6.0.1.jar?raw=true",
+        "requires": "^1.0.0"
       }
     ]
   },
@@ -140,6 +147,13 @@
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/multiindicators-6.0.0.jar?raw=true",
         "requires": "^1.0.0"
+      },
+      {
+        "date": "2024-11-03",
+        "sha512sum": "EE50D1708705F61A3B3F6E5FB6ADD25CE3075EE3F173FB8C1C7352CABB4A796DE752A6F5D84A7142F8556CAF763C4E73B7896008563D342C76B721235C6E6369",
+        "version": "6.0.1",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/multiindicators-6.0.1.jar?raw=true",
+        "requires": "^1.0.0"
       }
     ]
   },
@@ -155,6 +169,13 @@
         "sha512sum": "11F0DC35F57AEBD01B5FD858C9AE81B0CD076AA664C6B0D2725FAD0F1F081D1D7343B5A6CE21EDAE0D9BD447BF5E99A36F4D1B810FDFE9E7E410CF5B1050C2B1",
         "version": "6.0.0",
         "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/nex-6.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      },
+      {
+        "date": "2024-11-03",
+        "sha512sum": "8C9921E63ACC8437A643511636856C013A1F748878F40B5EE6D07A7F664B9E40ADC34424E1E6D4511AD5F7B1BE69213515F110E2858E48503B28C6D9F57DC5B1",
+        "version": "6.0.1",
+        "url": "https://github.com/pure-sb/maintained-plugins/blob/master/release/nex-6.0.1.jar?raw=true",
         "requires": "^1.0.0"
       }
     ]
